@@ -2,6 +2,10 @@
 
 Esse projeto consiste no desafio **"Siga o Mestre"**, em que um *turtlebot* é considerado o mestre e será controlado pelo *teleop*. Os outros robôs devem seguí-lo pelo mapa, respeitandoa distância mínima.
 
+Membros:
+- Lucas Caldeira de Oliveira
+- Lucas Volkmer Hendges
+
 ## Configurações do Ambiente
 
 A importação dos submódulos e configurações iniciais é dada abaixo.
