@@ -1,6 +1,6 @@
 ## Enunciado
 
-Esse projeto consiste no desafio **"Siga o Mestre"**, em que um *turtlebot* é considerado o mestre e será controlado pelo *teleop*. Os outros robôs devem seguí-lo pelo mapa, respeitandoa distância mínima.
+Esse projeto consiste no desafio **"Siga o Mestre"**, em que um *turtlebot* é considerado o mestre e será controlado pelo *teleop*. Os outros robôs devem seguí-lo pelo mapa, respeitando uma distância mínima de segurança.
 
 Membros:
 - Lucas Caldeira de Oliveira
@@ -69,7 +69,7 @@ Para salvar o projeto, incluindo os submódulos, execute os comandos abaixo na p
 
 > `$ git add turtle_fleet CMakeList.txt`
 >
-> `$ git remote add origin https://<token>@github.com/lcaldeira/Rosject3_Challenge1.git`
+> `$ git remote add origin https://<token>@github.com/lcaldeira/Rosject3_FollowTheLeader.git`
 >
 > `$ git pull origin main`
 >
