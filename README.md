@@ -59,6 +59,8 @@ Para rodar o projeto, abra 1 terminal (com as variáveis de ambiente configurada
 
 Abra o *gazebo* e observe a dança dos robôs :D
 
+![Comboio com 3 robôs em fila](turtle_fleet/media/convoy.gif)
+
 ## Salvando no GitHub
 
 Um pequeno lembrete passo-a-passo de como usar o git.
